@@ -16,7 +16,7 @@ Some of the skills and tools I use or want to learn are:
 - Machine learning frameworks: TensorFlow, Keras, PyTorch
 - Cloud platforms: AWS, Google Cloud
 - Version control: Git, GitHub
-- 
+
 I’m always open to new opportunities and collaborations. You can reach me at:
 
 LinkedIn: [https://www.linkedin.com/in/lahiru-wimalarathna-72bb46285/]
