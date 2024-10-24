@@ -5,7 +5,7 @@ I’m a student at the University of Sri Jayawardenepura, Sri Lanka. I’m curre
 Some of the projects I’m working on or planning to work on are:
 - crypto-trading-algorithm : creating a trading algorithm based on a course lab.
 - java-data-structures : a repository contains implementation and use cases of the well known data structures
-- to-do-lis-manager : simple to do list manager application with REST API using flutter and spring boot technology.
+- to-do-list-manager : simple to do list manager application with REST API using flutter and spring boot technology.
 - AssestsManagementSystem : contribution for the asset management system project in the university.
 
 Some of the skills and tools I use or want to learn are:
