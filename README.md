@@ -2,12 +2,6 @@
 
 I’m a student at the University of Sri Jayawardenepura, Sri Lanka. I’m currently in my second year of studying computer science and mathematics. I’m fascinated by the applications of these fields in various domains such as artificial intelligence, data science, cyber security and more. I’m eager to learn new skills and technologies and explore new possibilities.
 
-Some of the projects I’m working on or planning to work on are:
-- crypto-trading-algorithm : creating a trading algorithm based on a course lab.
-- java-data-structures : a repository contains implementation and use cases of the well known data structures
-- to-do-list-manager : simple to do list manager application with REST API using flutter and spring boot technology.
-- AssestsManagementSystem : contribution for the asset management system project in the university.
-
 Some of the skills and tools I use or want to learn are:
 
 - Programming languages: Python, C++, R, MATLAB, Java, C, Flutter, javascript
