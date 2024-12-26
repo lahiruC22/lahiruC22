@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a student at the University of Sri Jayawardenepura, Sri Lanka. I’m currently in my second year of studying computer science and mathematics. I’m fascinated by the applications of these fields in various domains such as artificial intelligence, data science, cyber security and more. I’m eager to learn new skills and technologies and explore new possibilities.
+I’m a student at the University of Sri Jayawardenepura, Sri Lanka. I’m currently in my second year of studying computer science and mathematics. I’m fascinated by the applications of these fields in various domains such as artificial intelligence, data science, cyber security, and more. I’m eager to learn new skills and technologies and explore new possibilities.
 
 Some of the skills and tools I use or want to learn are:
 
@@ -13,7 +13,9 @@ Some of the skills and tools I use or want to learn are:
 
 I’m always open to new opportunities and collaborations. You can reach me at:
 
-LinkedIn: [https://www.linkedin.com/in/lahiru-wimalarathna-72bb46285/]
+LinkedIn: [Lahiru Wimalarathna](https://www.linkedin.com/in/lahiru-wimalarathna/)
+Email: [Lahiru Wimalarathna](lahirucw1@gmail.com)
+Medium: [Lahiru Wimalarathna](https://medium.com/@lahirucw)
 
 Thank you for visiting my profile 
 <!--
