@@ -13,9 +13,9 @@ Some of the skills and tools I use or want to learn are:
 
 I’m always open to new opportunities and collaborations. You can reach me at:
 
-LinkedIn: [Lahiru Wimalarathna](https://www.linkedin.com/in/lahiru-wimalarathna/)
-Email: [Lahiru Wimalarathna](lahirucw1@gmail.com)
-Medium: [Lahiru Wimalarathna](https://medium.com/@lahirucw)
+LinkedIn: [Lahiru Wimalarathna](https://www.linkedin.com/in/lahiru-wimalarathna/)  
+Email: [Lahiru Wimalarathna](lahirucw1@gmail.com)  
+Medium: [Lahiru Wimalarathna](https://medium.com/@lahirucw)  
 
 Thank you for visiting my profile 
 <!--
